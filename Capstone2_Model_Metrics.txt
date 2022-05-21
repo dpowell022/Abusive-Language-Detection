@@ -1,0 +1,15 @@
+Derek Powell
+Final Capstone 2 model
+
+Random Forest
+RandomForestClassifier(n_estimators=300)
+
+        precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89      4100
+           1       0.89      0.82      0.86      3400
+
+    accuracy                           0.87      7500
+   macro avg       0.88      0.87      0.87      7500
+weighted avg       0.88      0.87      0.87      7500
+
